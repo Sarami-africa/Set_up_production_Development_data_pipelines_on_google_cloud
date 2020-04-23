@@ -21,6 +21,9 @@ We are going to take advantage of Data lake
            
     ###Processing and analytics
        -store everything now so that you can extract insights later. Depending on the nature of the raw data and the types of analytics involved. The workflow we are designing is a simple pipeline and gradually expand it with time
+![](images/arch.png)
+       
+       
        
        
 
